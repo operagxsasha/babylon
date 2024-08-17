@@ -7,9 +7,10 @@ Unlocking 21 Million ₿ to Secure the Decentralized Economy
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/babylonglobal)
 [![Medium](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/babylonchain-io)
 
-[Babylon](https://babylonchain.io) provides a suite of security-sharing
-protocols between Bitcoin and the PoS world. It provides two inter-connected
-protocols:
+[Babylon](https://babylonchain.io) project designs security protocols that scale Bitcoin to secure the decentralized world.
+To this end, Babylon utilizes the three primary facets of Bitcoin: bitcoin the asset, Bitcoin the PoW-secured timestamping server,
+and Bitcoin the most censorship-resistant blockspace in the world. Through inventing pioneering protocols,
+Babylon envisions a more secure and Bitcoin-centric decentralized world.
 
 - **Bitcoin timestamping:** Submits succinct and verifiable timestamps of any
   data (such as PoS blockchains) to Bitcoin.
